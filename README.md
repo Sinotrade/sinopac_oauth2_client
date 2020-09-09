@@ -1,5 +1,5 @@
 
-[![N|Solid](https://www.sinotrade.com.tw/img/theme/sino_logo.png)](https://www.sinotrade.com.tw/newweb)
+[![N|Solid](https://github.com/Sinotrade/sinopac_oauth2_client/blob/master/images/sinopac-144x144.png)](https://www.sinotrade.com.tw/newweb)
 
 <a id='top'></a>
 ## Table of Contents
