@@ -1,0 +1,12 @@
+# Logs
+logs
+*.log
+
+#VSCode metadata
+.vscode
+
+# Mac files
+.DS_Store
+
+#
+node_modules
