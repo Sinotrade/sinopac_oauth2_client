@@ -48,6 +48,7 @@ URL 請包含下列所需的 query parameter：
 ### 認證與授權流程
 
 當使用者被導向至授權URL，Sinopac Platform 將自動檢視使用者是否於 NewWeb 有登入時效。
+測試帳號: AUTHUSER01 , 密碼: 2222
 
 #### 當使用者未登入 NewWeb
 ![image](https://github.com/Sinotrade/sinopac_oauth2_client/blob/master/images/login.png)
