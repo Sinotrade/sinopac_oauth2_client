@@ -50,10 +50,13 @@ URL 請包含下列所需的 query parameter：
 當使用者被導向至授權URL，Sinopac Platform 將自動檢視使用者是否於 NewWeb 有登入時效。
 
 #### 當使用者未登入 NewWeb
+![image](https://github.com/Sinotrade/sinopac_oauth2_client/blob/master/images/login.png)
 
 #### 使用者已登入 NewWeb
+![image](https://github.com/Sinotrade/sinopac_oauth2_client/blob/master/images/continue-login.png)
 
 ### 取得授權碼
+![image](https://github.com/Sinotrade/sinopac_oauth2_client/blob/master/images/auth.png)
 
 當完成使用者認證與授權，HTTP status code `302` 與回傳 callback URL ，將包含下列 query parameter：
 | Parameter| 說明 |
