@@ -44,11 +44,12 @@ URL 請包含下列所需的 query parameter：
 | `redirect_uri` | Callback URL。使用者於認證及授權後，將被重新導向至此 URL 頁面 |
 | `state`|專屬的 alphanumeric string，用於防止跨站請求偽造 (cross-site request forgery)。此值應由開發者的應用隨機產生。URL 編碼字串不適用|
 
+### 測試登入帳號及密碼
+AUTHUSER01 / 2222
 
 ### 認證與授權流程
 
 當使用者被導向至授權URL，Sinopac Platform 將自動檢視使用者是否於 NewWeb 有登入時效。
-測試帳號: AUTHUSER01 , 密碼: 2222
 
 #### 當使用者未登入 NewWeb
 ![image](https://github.com/Sinotrade/sinopac_oauth2_client/blob/master/images/login.png)
