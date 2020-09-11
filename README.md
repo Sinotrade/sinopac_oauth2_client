@@ -13,7 +13,7 @@
 <a id='install'></a>
 # Installation and Setup
 
-1. install node > 12
+1. Install node.js version > 12
 2. Clone this Repo
 3. `cd` into the project root folder, and run `npm install`
 4. Run `npm run dev` to boot up the oauth client
